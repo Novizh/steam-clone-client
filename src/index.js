@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './assets/css/main.css';
+import './assets/js/browser.min.js';
+import './assets/js/breakpoints.min.js';
 
 ReactDOM.render(
   <React.StrictMode>
